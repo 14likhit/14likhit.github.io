@@ -1,6 +1,8 @@
 # Site
 repository: 14likhit/14likhit.github.io
-favicon: images/favicon.ico
+favicon: images/mobile.png
+
+dark: true
 
 # Personal info
 name: Likhit Undkat
