@@ -9,8 +9,8 @@
       - Developed the core media recorder and player.
       - Implementing <mark>MVVM</mark> architecture.
       - Using libraries <mark>RxJava</mark>,<mark>Dagger</mark>,<mark>Exoplayer</mark>.<br>
-     |
-     Second: Datalabeling app.<br>
+      
+     Second: Datalabeling app.
       - Building app from the scratch.
       - Implemeting Image Zooming , Imaging Editing functionality.
       - Implementing <mark>MVVM</mark> architecture.
