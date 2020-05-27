@@ -3,13 +3,13 @@
   dates: April 2020 - Present
   job_title: Android Development
   description: |
-    Currently I am working as Freelance Developer for couple of projects.
-    One: The app is english speaknig app for school going students with 10000+ downloads.
+    Currently I am working as Freelance Developer for couple of projects.<br>
+    One: The app is english speaknig app for school going students with 10000+ downloads.<br>
       - I am migrating app from React Native to native.
       - Developed the core media recorder and player.
       - Implementing <mark>MVVM</mark> architecture.
       - Using libraries <mark>RxJava</mark>,<mark>Dagger</mark>,<mark>Exoplayer</mark>.
-     Second: Datalabeling app.
+     Second: Datalabeling app.<br>
       - Building app from the scratch.
       - Implemeting Image Zooming , Imaging Editing functionality.
       - Implementing <mark>MVVM</mark> architecture.
@@ -20,7 +20,7 @@
   dates: August 2019 - April 2020
   job_title: Android Engineer
   description: |
-    CollPoll is and Comprehensive Enterprise Platform for Universities.20+ univesities across India have adapted to CollPoll. Working as part of a mobile team consiting of 2 developers I had the oportunity to help drive the 
+    CollPoll is a Comprehensive Enterprise Platform for Universities.20+ univesities across India have adapted to CollPoll. Working as part of a mobile team consiting of 2 developers I had the oportunity to help drive the 
     new featurs and enhancements for the app.
     The app is written in <mark>Java</mark> app that talks to an API built using a collection of <mark>Java</mark> microservices. 
     During this course I worked on following things:
@@ -43,7 +43,7 @@
   job_title: Product Developer
   description: |
     During my time at Udhaar I worked as part of an early stage startup team building digital lending app for masses in India.
-    I gained experience working with mobile app development lifecycl. We built most of product using 
+    I gained experience working with mobile app development lifecycle. We built most of product using 
     <mark>Android</mark>, <mark>Java</mark>, <mark>Django</mark>, <mark>PostgreSQL</mark> and <mark>Pandas</mark>.
 
     Udhaar as of now have downloads over 100,000+.
