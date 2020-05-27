@@ -1,4 +1,21 @@
-- company: CollPoll
+
+- company: Freelance
+  dates: April 2020 - Present
+  job_title: Android Development
+  description: |
+    Currently I am working as Freelance Developer for couple of projects.
+    One: The app is english speaknig app for school going students with 10000+ downloads.
+      - I am migrating app from React Native to native.
+      - Developed the core media recorder and player.
+      - Implementing <mark>MVVM</mark> architecture.
+      - Using libraries <mark>RxJava</mark>,<mark>Dagger</mark>,<mark>Exoplayer</mark>.
+     Second: Datalabeling app.
+      - Building app from the scratch.
+      - Implemeting Image Zooming , Imaging Editing functionality.
+      - Implementing <mark>MVVM</mark> architecture.
+
+- layout: right
+  company: CollPoll
   link: www.collpoll.com
   dates: August 2019 - April 2020
   job_title: Android Engineer
@@ -20,8 +37,7 @@
     I enjoyed learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
     in the office. I also liked suggesting improvements on UI/UX and implement the same. 
 
-- layout: right
-  company: Udhaar
+- company: Udhaar
   link: https://www.udhaar.co/
   dates: December 2018 - August 2019
   job_title: Product Developer
@@ -41,50 +57,13 @@
 
     Towards the end of my time at Udjaar my role involved building analysis module using <mark>Pandas</mark>. 
 
-- company: Freelance
-  dates: April 2020 - Present
-  job_title: Android Development
-  description: |
-    Currently I am working as Freelance Developer for couple of projects.
-    One: The app is english speaknig app for school going students with 10000+ downloads.
-      - I am migrating app from React Native to native.
-      - Developed the core media recorder and player.
-      - Implementing <mark>MVVM</mark> architecture.
-      - Using libraries <mark>RxJava</mark>,<mark>Dagger</mark>,<mark>Exoplayer</mark>.
-     Second: Datalabeling app.
-      - Building app from the scratch.
-      - Implemeting Image Zooming , Imaging Editing functionality.
-      - Implementing <mark>MVVM</mark> architecture.
-
 - layout: right
   company: Accenture
   link: https://www.accenture.com/in-en
-  dates: June 2017 - June 8
+  dates: June 2017 - June 2018
   job_title: Developer
   description: |
-    While working at Nudge I was able to work on a large number of projects ranging from small Drupal sites to large
-    enterprise level applications. I enjoy being able to work with clients to understand and surpass their expectations.
-    At Nudge I was also given the oppertunity to work with all of my core skills and to gain new skills in things
-    such as <mark>Symfony</mark>, <mark>Angular</mark> and <mark>Gulp</mark>. I also worked on a number of <mark>iOS</mark> and
-    <mark>Android</mark> applications.
-
-    During my time at Nudge I was able to help the lead developer with the writing of Technical Specifications and
-    also Project Requirements. I feel this is a useful skill to have as it helps me to become an even more well-rounded
-    developer.
-
-    During the summer I had the opportunity to head to Accra, Ghana and work with the team out there. This was a
-    great opportunity to learn more about the industry in another country but also to allow me to lead their
-    team for a few weeks and gain lots of experience of remote teams.
-
-- company: GWS Media
-  link: www.gwsmedia.com
-  dates: June 2012 - August 2014
-  job_title: Web Developer
-  description: |
-    I started working for GWS Media part time during my third year at University and continued full time once I had
-    graduated. It was during this role that I learnt many of the fundamentals that I have been building on over
-    the past 3 years. Whilst at GWS I had the opportunity to work with:
-    <mark>Drupal</mark>, <mark>Magento</mark>, <mark>Bootstrap</mark>, <mark>Codeigniter</mark>, <mark>Android</mark> and <mark>iOS</mark>.
-
-    I feel like having the opportunity to use a large range of different things early on in my career has given me
-    the drive to always want to try new tools and frameworks.
+    While working at Accenture I was able to work on a scaled project of Promotion Managenemtn Tool for FMCGs. 
+    I enjoy being able to work with clients to understand and surpass their expectations.
+    Worked for clients like Campbells and Minute Maid. My Primary task was to make UI for the application.
+    
