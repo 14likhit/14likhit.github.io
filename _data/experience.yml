@@ -1,53 +1,65 @@
-- company: Royal Bank of Scotland
-  dates: August 2017 - Present
-  job_title: Software Engineer
+- company: CollPoll
+  link: www.collpoll.com
+  dates: August 2019 - April 2020
+  job_title: Android Engineer
   description: |
-    I am currently working at The Royal Bank of Scotland as a full stack engineer focusing mostly on the front end of a corporate banking product.
-    Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
-    work with the PO defining what we are building.
-
-    I spend most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>React</mark> app
-    that talks to an API built using a collection of <mark>Java</mark> microservices. I have spent time working in multiple parts of the stack including
-    helping to define our front end architecure to follow best practices to implementing PDF and CSV export in a microservice.
-
-    I enjoy learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
-    in the office. I am always looking to suggest improvements and challenge what and how we are working to make sure we are delivering the best service
-    to the customers while also developing to the highest standards.
+    CollPoll is and Comprehensive Enterprise Platform for Universities.20+ univesities across India have adapted to CollPoll. Working as part of a mobile team consiting of 2 developers I had the oportunity to help drive the 
+    new featurs and enhancements for the app.
+    The app is written in <mark>Java</mark> app that talks to an API built using a collection of <mark>Java</mark> microservices. 
+    During this course I worked on following things:
+     - Implemeting <mark>MVVM</mark> Architecture.
+     - Migrating codebase to <mark>Kotlin</mark>.
+     - Developed Generic Video Player using <mark>ExoPlayer</mark>.
+     - Added media sharing functionality in Direct Messaging.
+     - Build QR code scanner and generator using <mark>ZXing</mark> and <mark>Google Vision API</mark>, which helped reduce
+      significant load on server.
+     - Build Event Management Console for the colleges.
+     - Build recycler view based survey form.
+     - Migrated app to sdk 28.
+    
+    I enjoyed learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
+    in the office. I also liked suggesting improvements on UI/UX and implement the same. 
 
 - layout: right
-  company: Simitive
-  link: www.simitive.com
-  dates: November 2015 - August 2017
-  job_title: Developer
+  company: Udhaar
+  link: https://www.udhaar.co/
+  dates: December 2018 - August 2019
+  job_title: Product Developer
   description: |
-    During my time at Simitive I worked as part of an agile team building our own in house web based software and
-    also a large scale website for an international client. I gained experience working with a continuous integration
-    workflow using tools such as <mark>Jenkins</mark> and working with Amazon Web Services for deployments. We built most
-    of our software using <mark>Symfony</mark>, <mark>Backbone</mark>, <mark>Marionette</mark>, <mark>Vue</mark> and <mark>Vuex</mark>.
+    During my time at Udhaar I worked as part of an early stage startup team building digital lending app for masses in India.
+    I gained experience working with mobile app development lifecycl. We built most of product using 
+    <mark>Android</mark>, <mark>Java</mark>, <mark>Django</mark>, <mark>PostgreSQL</mark> and <mark>Pandas</mark>.
 
-    For 6 months I was working on delivering a standalone web product for an international client that services over
-    600,000 users. This has been built from the ground up using <mark>Symfony</mark> to provide a backend API and
-    <mark>Backbone</mark> for the front end. I also gained a lot of experience with <mark>Elasticsearch</mark> to provide
-    search functionality of millions of entities to the front end. During the project I spent time out of hours
-    communicating with the client, performing deployments and providing support.
+    Udhaar as of now have downloads over 100,000+.
+    For 9 months that I was working with Udhaar we deliver many features like BBPS, Loan Appication Form, QR Payment.
+      - Implemented Credit Profile Generation using Analysis Module.
+      - Integrated BBPS.
+      - Added location tracking service.
+      - Build Loan Application Form for users.
+      - Added Profile Verification UI.
+      - Worked on <mark>Firebase Notications</mark> and <mark>Dynamic Links</mark>
 
-    Towards the end of my time at Simitive my role involved assisting with the company's devOps, this included managing
-    our <mark>AWS</mark> infrastructure as well as deploying and migrating sites. I also spend time configuring and maintaining
-    our clients SSO, this mostly involves configuring new clients who are using <mark>AD FS</mark>, <mark>Shibboleth</mark> and
-    <mark>CAS</mark> but also maintaining our software's SSO functionality.
+    Towards the end of my time at Udjaar my role involved building analysis module using <mark>Pandas</mark>. 
 
 - company: Freelance
-  dates: September 2016 - October 2016
+  dates: April 2020 - Present
   job_title: Android Development
   description: |
-    I was asked to update an existing Android app to the latest version of Android and to fix any issues caused by
-    this as well as a few other existing issues. This project had a very tight time scale and I was able to complete
-    it in very good time while providing regular updates to the client.
+    Currently I am working as Freelance Developer for couple of projects.
+    One: The app is english speaknig app for school going students with 10000+ downloads.
+      - I am migrating app from React Native to native.
+      - Developed the core media recorder and player.
+      - Implementing <mark>MVVM</mark> architecture.
+      - Using libraries <mark>RxJava</mark>,<mark>Dagger</mark>,<mark>Exoplayer</mark>.
+     Second: Datalabeling app.
+      - Building app from the scratch.
+      - Implemeting Image Zooming , Imaging Editing functionality.
+      - Implementing <mark>MVVM</mark> architecture.
 
 - layout: right
-  company: Nudge Digital
-  link: www.nudgedigital.co.uk
-  dates: August 2014 - November 2015
+  company: Accenture
+  link: https://www.accenture.com/in-en
+  dates: June 2017 - June 8
   job_title: Developer
   description: |
     While working at Nudge I was able to work on a large number of projects ranging from small Drupal sites to large
