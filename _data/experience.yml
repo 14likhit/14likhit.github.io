@@ -8,7 +8,7 @@
       - I am migrating app from React Native to native.
       - Developed the core media recorder and player.
       - Implementing <mark>MVVM</mark> architecture.
-      - Using libraries <mark>RxJava</mark>,<mark>Dagger</mark>,<mark>Exoplayer</mark>.
+      - Using libraries <mark>RxJava</mark>,<mark>Dagger</mark>,<mark>Exoplayer</mark>.<br>
      Second: Datalabeling app.<br>
       - Building app from the scratch.
       - Implemeting Image Zooming , Imaging Editing functionality.
