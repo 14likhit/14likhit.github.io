@@ -2,7 +2,7 @@
 repository: 14likhit/14likhit.github.io
 favicon: images/mobile.png
 
-dark: true
+darkmode: true
 
 # Personal info
 name: Likhit Undkat
