@@ -1,28 +1,28 @@
 # Site
-repository: sproogen/jameswgrant
+repository: 14likhit/14likhit.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: James Grant
-title: Full Stack & Mobile Developer
-email: james@jwgmedia.co.uk
-website: www.jwgmedia.co.uk
+name: Likhit Undkat
+title: Android Developer
+email: 14likhit@gmail.com
+website: 14likhit.github.io
 
 # Social links
-twitter_username: sproogen
-github_username:  sproogen
+twitter_username: 14likhit
+github_username:  14likhit
 # dribbble_username:
 # facebook_username:
 # flickr_username:
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: likhit-unadkat-263006a4
 # pinterest_username:
 # youtube_username:
 # googleplus_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/jg.jpg
+about_profile_image: images/whats_likhit.jpeg
 about_content: |
   Hi, my name is James Grant, I'm a full stack web and mobile app developer with over 6 years experience, based in the South West.
   I am currently working for the Royal Bank of Scotland as a frontend software engineer on a comercial banking platform.
