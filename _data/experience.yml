@@ -1,6 +1,29 @@
 
-- company: Freelance
-  dates: April 2020 - Present
+  company: Aktivolabs
+  link: www.aktivolabs.com
+  dates: September 2020 - Present
+  job_title: Android Engineer
+  description: |
+    CollPoll is a Comprehensive Enterprise Platform for Universities.20+ univesities across India have adapted to CollPoll. Working as part of a mobile team consiting of 2 developers I had the oportunity to help drive the 
+    new featurs and enhancements for the app.
+    The app is written in <mark>Java</mark> app that talks to an API built using a collection of <mark>Java</mark> microservices. 
+    During this course I worked on following things:
+     - Implemeting <mark>MVVM</mark> Architecture.
+     - Migrating codebase to <mark>Kotlin</mark>.
+     - Developed Generic Video Player using <mark>ExoPlayer</mark>.
+     - Added media sharing functionality in Direct Messaging.
+     - Build QR code scanner and generator using <mark>ZXing</mark> and <mark>Google Vision API</mark>, which helped reduce
+      significant load on server.
+     - Build Event Management Console for the colleges.
+     - Build recycler view based survey form.
+     - Migrated app to sdk 28.
+    
+    I enjoyed learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
+    in the office. I also liked suggesting improvements on UI/UX and implement the same. 
+
+- layout: right 
+  company: Freelance
+  dates: April 2020 - August 2020
   job_title: Android Development
   description: |
     Currently I am working as Freelance Developer for couple of projects.<br>
