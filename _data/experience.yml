@@ -5,32 +5,29 @@
   dates: September 2020 - Present
   job_title: Android Engineer
   description: |
-    CollPoll is a Comprehensive Enterprise Platform for Universities.20+ univesities across India have adapted to CollPoll. Working as part of a mobile team consiting of 2 developers I had the oportunity to help drive the 
-    new featurs and enhancements for the app.
-    The app is written in <mark>Java</mark> app that talks to an API built using a collection of <mark>Java</mark> microservices. 
+    Aktivo engages insurance policyholders to live healthy lifestyles and attain long-term health by using Aktivo mobile digital intervention tools.
+    Working as part of a Android team consiting of 3 developers I had the oportunity to help drive the new features and enhancements for the app.
+    The app is written in <mark>Kotlin</mark> app that talks to an API built using a <mark>MERN</mark>. 
     During this course I worked on following things:
      - Implemeting <mark>MVVM</mark> Architecture.
      - Migrating codebase to <mark>Kotlin</mark>.
-     - Developed Generic Video Player using <mark>ExoPlayer</mark>.
-     - Added media sharing functionality in Direct Messaging.
-     - Build QR code scanner and generator using <mark>ZXing</mark> and <mark>Google Vision API</mark>, which helped reduce
-      significant load on server.
-     - Build Event Management Console for the colleges.
-     - Build recycler view based survey form.
-     - Migrated app to sdk 28.
+     - Releasing Version 2 of the app
+     - Developed Meditation (Mind) module from scratch.
+     - Added Product Flavors for White Labelling.
+     - Did JCenter migration to Maven Central.
+     - Initiated Unit Testing.
     
-    I enjoyed learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
-    in the office. I also liked suggesting improvements on UI/UX and implement the same. 
+    I am enjoying learing about the GFit api and Data Mutation. Never before this I had tried GFit Apis.
 
 - company: Freelance
   dates: April 2020 - August 2020
   job_title: Android Development
   description: |
-    Currently I am working as Freelance Developer for couple of projects.<br>
-    One: The app is english speaknig app for school going students with 10000+ downloads.<br>
-      - I am migrating app from React Native to native.
+    I was working as Freelance Developer for couple of projects.<br>
+    One: The app is english speaking Learing app for school going students with 50000+ downloads.<br>
+      - I migrated app from React Native to native Java.
       - Developed the core media recorder and player.
-      - Implementing <mark>MVVM</mark> architecture.
+      - Implemented <mark>MVVM</mark> architecture.
       - Using libraries <mark>RxJava</mark>,<mark>Dagger</mark>,<mark>Exoplayer</mark>.<br>
       
      Second: Datalabeling app.
@@ -45,7 +42,7 @@
   job_title: Android Engineer
   description: |
     CollPoll is a Comprehensive Enterprise Platform for Universities.20+ univesities across India have adapted to CollPoll. Working as part of a mobile team consiting of 2 developers I had the oportunity to help drive the 
-    new featurs and enhancements for the app.
+    new features and enhancements for the app.
     The app is written in <mark>Java</mark> app that talks to an API built using a collection of <mark>Java</mark> microservices. 
     During this course I worked on following things:
      - Implemeting <mark>MVVM</mark> Architecture.
@@ -77,9 +74,9 @@
       - Added location tracking service.
       - Build Loan Application Form for users.
       - Added Profile Verification UI.
-      - Worked on <mark>Firebase Notications</mark> and <mark>Dynamic Links</mark>
+      - Worked on <mark>Firebase Notifications</mark> and <mark>Dynamic Links</mark>
 
-    Towards the end of my time at Udjaar my role involved building analysis module using <mark>Pandas</mark>. 
+    Towards the end of my time at Udhaar my role involved building analysis module using <mark>Pandas</mark>. 
 
 - layout: right
   company: Accenture
@@ -88,6 +85,6 @@
   job_title: Developer
   description: |
     While working at Accenture I was able to work on a scaled project of Promotion Managenemtn Tool for FMCGs. 
-    I enjoy being able to work with clients to understand and surpass their expectations.
+    I enjoyed working with clients to understand and surpass their expectations.
     Worked for clients like Campbells and Minute Maid. My Primary task was to make UI for the application.
     
