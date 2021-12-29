@@ -1,4 +1,5 @@
 
+- layout: right
   company: Aktivolabs
   link: www.aktivolabs.com
   dates: September 2020 - Present
@@ -21,8 +22,7 @@
     I enjoyed learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
     in the office. I also liked suggesting improvements on UI/UX and implement the same. 
 
-- layout: right 
-  company: Freelance
+- company: Freelance
   dates: April 2020 - August 2020
   job_title: Android Development
   description: |
