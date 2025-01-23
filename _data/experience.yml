@@ -1,8 +1,26 @@
+- layout: right
+  company: Semaai
+  link: https://www.semaai.com/en
+  dates: March 2022 - Present
+  job_title: Android Engineer
+  description: |
+    Aktivo engages insurance policyholders to live healthy lifestyles and attain long-term health by using Aktivo mobile digital intervention tools.
+    Working as part of a Android team consiting of 3 developers I had the oportunity to help drive the new features and enhancements for the app.
+    The app is written in <mark>Kotlin</mark> app that talks to an API built using a <mark>MERN</mark>. 
+    During this course I worked on following things:
+    
+    - <mark>Established Architecture</mark>: Designed and implemented the base MVI (Model-View-Intent) and Multi Module architecture to ensure scalability and maintainability of the application.
+    - <mark>Feature Development</mark>: Developed multiple impactful features, including Coupon Gamification, which boosted GMV (Gross Merchandise Value) by 10%.
+    - <mark>Team Building</mark>: Played a pivotal role in expanding the team size from 2 to 10 engineers, fostering a collaborative and high-performance culture.
+    - <mark>App Stability</mark>: Proactively contributed to reducing crashes and ANRs, resulting in a 99.5% crash-free rate, significantly enhancing app stability and user experience. 
+    - <mark>Jetpack Compose Migration</mark>: Seamlessly migrated key screens from XML layouts to Jetpack Compose, ensuring optimal performance and a smooth user experience during the transition.
+    - <mark>Performance Optimization</mark>: Optimized app launch, homepage loading, and rendering times, and implemented baseline profiling, leading to a 20% increase in user retention.
+
 
 - layout: right
   company: Aktivolabs
   link: www.aktivolabs.com
-  dates: September 2020 - Present
+  dates: September 2020 - March 2022
   job_title: Android Engineer
   description: |
     Aktivo engages insurance policyholders to live healthy lifestyles and attain long-term health by using Aktivo mobile digital intervention tools.
