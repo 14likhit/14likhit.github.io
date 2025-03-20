@@ -53,12 +53,12 @@
       - Implementing <mark>MVVM</mark> architecture.
 
 - layout: right
-  company: CollPoll
-  link: www.collpoll.com
+  company: Digii (formerly CollPoll)
+  link: https://digiicampus.com/
   dates: August 2019 - April 2020
   job_title: Android Engineer
   description: |
-    CollPoll is a Comprehensive Enterprise Platform for Universities.20+ univesities across India have adapted to CollPoll. Working as part of a mobile team consiting of 2 developers I had the oportunity to help drive the 
+    Digii (formerly CollPoll) is a Comprehensive Enterprise Platform for Universities.20+ univesities across India have adapted to CollPoll. Working as part of a mobile team consiting of 2 developers I had the oportunity to help drive the 
     new features and enhancements for the app.
     The app is written in <mark>Java</mark> app that talks to an API built using a collection of <mark>Java</mark> microservices. 
     During this course I worked on following things:
